@@ -1,4 +1,4 @@
-##Python Practice
+## Python Practice
 
 Python Practice 🐍
 
@@ -8,7 +8,7 @@ Welcome to my Python Practice repository!
 
 This repository contains the Python programs I have practiced while learning Python. It covers fundamental concepts and basic problem-solving exercises. I will continue updating this repository as I learn new concepts.
 
-##Topics Covered
+## Topics Covered
 
 - Variables and Data Types
 - Operators
@@ -21,14 +21,14 @@ This repository contains the Python programs I have practiced while learning Pyt
 - File Handling
 - Basic Problem Solving
 
-##Repository Highlights
+## Repository Highlights
 
 - 30+ Python practice programs
 - Beginner-friendly examples
 - Logic-building exercises
 - Regularly updated with new programs
 
-##Goal
+## Goal
 
 To strengthen my Python programming skills through consistent practice and build a solid foundation for Data Science, Machine Learning, and Software Development.
 
