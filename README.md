@@ -23,10 +23,10 @@ This repository contains the Python programs I have practiced while learning Pyt
 
 ## Repository Highlights
 
- • 50+ Python practice programs
- • Beginner-friendly examples
- • Logic-building exercises
- • Regularly updated
+- 50+ Python practice programs
+- Beginner-friendly examples
+- Logic-building exercises
+- Regularly updated
 
 ## Goal
 
